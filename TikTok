@@ -1,6 +1,10 @@
 # Tiktok domains
 # https://raw.githubusercontent.com/DevSabry/Social/main/TikTok
 
+# new
+0.0.0.0 tiktokcdn.com.home
+
+# initial values
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
