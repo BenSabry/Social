@@ -1,6 +1,14 @@
 # Tiktok domains
 # https://raw.githubusercontent.com/DevSabry/Social/main/TikTok
 
+# --------------------------------------------------------------------------------
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+(^|\.)tiktok\.com$
+(^|\.)tiktok\.org$
+(^|\.)tiktokcdn\.com$
+
+# --------------------------------------------------------------------------------
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
