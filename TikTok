@@ -1,10 +1,6 @@
 # Tiktok domains
 # https://raw.githubusercontent.com/DevSabry/Social/main/TikTok
 
-# new
-0.0.0.0 tiktokcdn.com.home
-
-# initial values
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
@@ -14,6 +10,8 @@
 0.0.0.0 3dokby.toutiao50.com
 0.0.0.0 9pwigjmwo.xzcs3zlph.com
 0.0.0.0 9pwigjmwo.xzcs3zlph.com.edgesuite.net
+0.0.0.0 21cn.com
+0.0.0.0 189.cn
 0.0.0.0 5412ac7a44c679ea291e43368cac45de.byteoversea.com
 0.0.0.0 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 0.0.0.0 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
@@ -95,6 +93,7 @@
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 alisg-websocket-all-lb.byteoversea.net
 0.0.0.0 aliva-sentry.byteoversea.com
+0.0.0.0 aliyuncs.com
 0.0.0.0 all.amemv.com.w.kunluncan.com
 0.0.0.0 all.aweme-core-lb-hl.l.bytedns.net
 0.0.0.0 all.aweme-core-lb-lf.l.bytedns.net
@@ -114,6 +113,7 @@
 0.0.0.0 all.webcast-lb-lf.l.bytedns.net
 0.0.0.0 all.webcast-lb-lq-ttgw.l.bytedns.net
 0.0.0.0 alog.umeng.com
+0.0.0.0 amap.com
 0.0.0.0 amazex-aggdsz.snssdk.com
 0.0.0.0 amazex-agjsnj.snssdk.com
 0.0.0.0 amazex-aglnsy.snssdk.com
@@ -142,12 +142,15 @@
 0.0.0.0 api2-16-h2-eagle-useast1a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.lan
 0.0.0.0 api2-16-h2-eagle.musical.ly
 0.0.0.0 api2-16-h2-eagle.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-eagle.musical.ly.lan
 0.0.0.0 api2-16-h2-useast1a.musical.ly
 0.0.0.0 api2-16-h2-useast1a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-useast2a.musical.ly
 0.0.0.0 api2-16-h2-useast2a.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-useast2a.musical.ly.lan
 0.0.0.0 api2-16-h2.musical.ly
 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
 0.0.0.0 api2-16-quic-useast2a.musical.ly
@@ -651,6 +654,7 @@
 0.0.0.0 clinent_monitor.isnssdk.com
 0.0.0.0 clue.toutiao.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
+0.0.0.0 cmbchina.com
 0.0.0.0 code.byted.org
 0.0.0.0 cognition-va.bytedance.com
 0.0.0.0 cognition.byteoversea.com
@@ -1561,12 +1565,14 @@
 0.0.0.0 musereview.byteoversea.com
 0.0.0.0 music.muscdn.com
 0.0.0.0 music.musical.ly
+0.0.0.0 musica.ly
 0.0.0.0 musical.ly
 0.0.0.0 musical.ly.akadns.net
 0.0.0.0 musical.ly.edgekey.net
 0.0.0.0 musical.ly.edgesuite.net
 0.0.0.0 musically-alternate.app.link
 0.0.0.0 musically.app.link
+0.0.0.0 musically.ly
 0.0.0.0 musically.muscdn.com
 0.0.0.0 musician.tiktok.com
 0.0.0.0 mva2.byteoversea.com
@@ -2568,8 +2574,11 @@
 0.0.0.0 t.tiktok.com
 0.0.0.0 t.tiktok.com.edgesuite.net
 0.0.0.0 ta.snssdk.com
+0.0.0.0 taobao.com
+0.0.0.0 taobao.net
 0.0.0.0 tb.isnssdk.com
 0.0.0.0 tb.sgsnssdk.com
+0.0.0.0 tbsandbox.com
 0.0.0.0 tcs-maliva-lb-useast2a.byteoversea.net
 0.0.0.0 techblog.toutiao.com
 0.0.0.0 telecom.aweme-core-lb-hl.l.bytedns.net
@@ -2608,12 +2617,16 @@
 0.0.0.0 tiktok.com.c.secure.footprint.net
 0.0.0.0 tiktok.com.edgekey.net
 0.0.0.0 tiktok.com.edgesuite.net
+0.0.0.0 tiktok.net
+0.0.0.0 tiktok.org
+0.0.0.0 tiktokcdn-com.akamaized.net
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokcdn.com.akamaized.net
 0.0.0.0 tiktokcdn.com.baishan-cloud.net
 0.0.0.0 tiktokcdn.com.bytewlb.akadns.net
 0.0.0.0 tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 tiktokcdn.com.edgesuite.net
+0.0.0.0 tiktokcdn.com.home
 0.0.0.0 tiktokcdn.com.w.kunlunsl.com
 0.0.0.0 tiktokcdn.com.wsdvs.com
 0.0.0.0 tiktokcdn.liveplay.myqcloud.com
@@ -3213,6 +3226,7 @@
 0.0.0.0 v.pstatp.com
 0.0.0.0 v.sgpstatp.com
 0.0.0.0 v.tiktok.com
+0.0.0.0 v.tiktok.net
 0.0.0.0 v.tiktokcdn.com
 0.0.0.0 v.tiktokv.com
 0.0.0.0 va-effect.byteoversea.com
